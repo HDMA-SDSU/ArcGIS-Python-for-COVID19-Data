@@ -7,6 +7,7 @@ Customized Python code for analyzing COVID-19 datasets.
   * [data/zips_info.csv](https://github.com/HDMA-SDSU/ArcGIS-Python-for-COVID19-Data/blob/master/data/zips_info.csv) - Supplemental Zip Code Data
 * [COVID-19 Hospitalization, Mortality](https://github.com/HDMA-SDSU/ArcGIS-Python-for-COVID19-Data/blob/master/covid_hosp_mort_update.ipynb)
   * [data/sra_info.csv](https://github.com/HDMA-SDSU/ArcGIS-Python-for-COVID19-Data/blob/master/data/sra_info.csv) - Supplemental SRA Data
+* [COVID-19 Hospitalization, Mortality - Weekly Change](https://github.com/HDMA-SDSU/ArcGIS-Python-for-COVID19-Data/blob/master/covid_hosp_mort_weekly.ipynb)
 * [COVID-19 Skilled Nursing Facility (SNF)](https://github.com/HDMA-SDSU/ArcGIS-Python-for-COVID19-Data/blob/master/snf_dash_update.ipynb)
   * [data/snf_basic_info.csv](https://github.com/HDMA-SDSU/ArcGIS-Python-for-COVID19-Data/blob/master/data/snf_basic_info.csv) - Supplemental SNF Data
 * [COVID-19 Testing Results](https://github.com/HDMA-SDSU/ArcGIS-Python-for-COVID19-Data/blob/master/test_results_dash.ipynb)
